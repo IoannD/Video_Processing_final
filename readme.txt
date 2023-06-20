@@ -1,0 +1,1 @@
+encoding setting = "windows1251"
